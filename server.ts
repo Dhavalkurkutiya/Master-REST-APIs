@@ -1,9 +1,11 @@
-console.log("Hello");
+import app from "./src/app";
 
-if (true) {
-                                                    console.log("World");
-}
+const startServer = () => {
+    const port = process.env.PORT || 3000;
 
-function test() {
-                                                    console.log("Test");
-}
+    app.listen(port, () => {
+        console.log(`Server is running on port http://127.0.0.1:${port}`);
+    });
+};
+
+startServer();
