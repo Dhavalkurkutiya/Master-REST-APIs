@@ -2,6 +2,7 @@ import express, { NextFunction, Request, Response } from "express";
 import globalErrorHandler from "./middlewares/globalErrorHandler";
 import userRouter from "./user/userRouter";
 const app = express();
+app.use(express.json());
 
 // Routes
 // Http methods: GET, POST, PUT, PATCH, DELETE
