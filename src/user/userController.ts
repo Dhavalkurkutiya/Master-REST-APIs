@@ -5,6 +5,8 @@ import bcrypt from "bcrypt";
 import { sign } from "jsonwebtoken";
 import { config } from "../config/config";
 import { User } from "./userTypes";
+
+
 const createUser = async (req: Request, res: Response, next: NextFunction) => {
     const { name, email, password } = req.body;
 
@@ -46,7 +48,7 @@ const createUser = async (req: Request, res: Response, next: NextFunction) => {
             expiresIn: "1h",
             algorithm: "HS256",
         });
-        res.json({ axxessToken: token });
+        res.status(201).json({ axxessToken: token });
     } catch (error) {
         return next(createHttpError(500, "Generating token failed"));
     }
@@ -56,4 +58,3 @@ const createUser = async (req: Request, res: Response, next: NextFunction) => {
     // Response
 };
 
-export { createUser };
