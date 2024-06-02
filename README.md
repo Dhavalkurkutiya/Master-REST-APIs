@@ -6,19 +6,24 @@ Creating a beautiful README file for your GitHub repository is a great way to ma
 
 Welcome to the Master-REST-APIs repository! This project provides a comprehensive guide and implementation of RESTful APIs using various technologies and best practices.
 
-![REST API](https://example.com/your-image.png)
+![REST API](![https://example.com/your-image.png](https://blog.postman.com/wp-content/uploads/2020/07/API-101-What-Is-a-REST-API-scaled.jpg))
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Master-REST-APIs](#master-rest-apis)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Features](#features)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+    - [Usage](#usage)
+      - [Node.js Example](#nodejs-example)
+  - [API Endpoints](#api-endpoints)
+    - [Example Endpoint](#example-endpoint)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contact](#contact)
 
 ## Introduction
 
@@ -48,7 +53,7 @@ To get started with the project, follow the steps below.
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/Master-REST-APIs.git
+git clone[ https://github.com/your-username/Master-REST-APIs.git](https://github.com/Dhavalkurkutiya/Master-REST-APIs)
 ```
 
 Navigate to the project directory:
@@ -67,14 +72,6 @@ Instructions for running the examples and using the code in the repository.
 cd nodejs-example
 npm install
 npm start
-```
-
-#### Python Example
-
-```bash
-cd python-example
-pip install -r requirements.txt
-python app.py
 ```
 
 ## API Endpoints
@@ -119,8 +116,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or feedback, feel free to reach out:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [your-username](https://github.com/your-username)
+- Email: [your-email@example.com](mailto:kurkutiyadhaval30@gmail.com)
+- GitHub: [your-username](https://github.com/Dhavalkurkutiya)
 
 ---
 
