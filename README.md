@@ -6,7 +6,6 @@ Creating a beautiful README file for your GitHub repository is a great way to ma
 
 Welcome to the Master-REST-APIs repository! This project provides a comprehensive guide and implementation of RESTful APIs using various technologies and best practices.
 
-![REST API](![https://blog.postman.com/wp-content/uploads/2020/07/API-101-What-Is-a-REST-API-scaled.jpg]))
 
 ## Table of Contents
 
