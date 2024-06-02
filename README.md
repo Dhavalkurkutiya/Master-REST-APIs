@@ -116,8 +116,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or feedback, feel free to reach out:
 
-- Email: [your-email@example.com](mailto:kurkutiyadhaval30@gmail.com)
-- GitHub: [your-username](https://github.com/Dhavalkurkutiya)
+- Email: [kurkutiyadhaval30@gmail.com](mailto:kurkutiyadhaval30@gmail.com)
+- GitHub: [Dhavalkurkutiya](https://github.com/Dhavalkurkutiya)
 
 ---
 
